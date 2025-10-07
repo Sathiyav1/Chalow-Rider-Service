@@ -1,0 +1,19 @@
+/target/
+/.idea/
+/.vscode/
+*.iml
+*.log
+*.class
+.DS_Store
+.mvn/
+# Maven wrapper
+mvnw
+mvnw.cmd
+# Eclipse/IntelliJ
+/.project
+/.classpath
+/.settings/
+# macOS
+Thumbs.db
+# Node
+node_modules/
